@@ -1,0 +1,8 @@
+{
+  "name": "AmeSœur AI - Rencontres Sérieuses",
+  "description": "Une application de rencontre moderne et inclusive conçue pour trouver des partenaires de vie et construire des relations durables, assistée par une intelligence artificielle bienveillante.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
